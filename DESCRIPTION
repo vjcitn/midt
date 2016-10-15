@@ -1,0 +1,9 @@
+Package: midt
+Title: midterm function
+Version: 0.0.0
+Author: stvjc <stvjc@channing.harvard.edu>
+Description: 
+Suggests: 
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: MIT
+LazyLoad: yes
